@@ -23,7 +23,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GuilhermeOGon/GuilhermeOGon/output/snake.svg" alt="Snake animation" />
 
 ###
 
