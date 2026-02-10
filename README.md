@@ -6,9 +6,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="center">Seja bem-vindo(a) ao meu perfil!<br>Meu nome é Guilherme.<br>Atualmente cursando Desenvolvimento de Sistemas - ETEC</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" alt="nodejs logo"  />
@@ -25,6 +29,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilhermeog/" target="_blank">
